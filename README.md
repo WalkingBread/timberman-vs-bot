@@ -1,2 +1,2 @@
 # timberman-vs-bot
-I hate this game.
+Play with fullscreen 1920x1080.
